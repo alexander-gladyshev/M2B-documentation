@@ -709,5 +709,5 @@ Smiley faces are a very prominent style feature of the raywenderlich.com site!  
 ```
 
 # Conclusion
-if you have any ideas for upgrade this document, you can up this question in our dream team.
+If you have any ideas for upgrade this document, you can up this question in our dream team.
 
