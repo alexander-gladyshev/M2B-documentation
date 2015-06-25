@@ -3,7 +3,7 @@
 
 ## Company structure
 
-* [iOS team](iOS team.md)
+* [iOS team](iOS Team.md)
 
-* [Android team](Android team.md)
+* [Android team](Android Team.md)
 
