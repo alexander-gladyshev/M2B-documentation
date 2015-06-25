@@ -1,13 +1,9 @@
 
 # M2B Documentation
 
-## iOS team
+## Company structure
 
-### Teammates
-* [Alexander Gladyshev](https://github.com/alexander-gladyshev)
-* [Dmitry Bobrov](https://github.com/dimabobrov)
-* [Yulia Mishina](https://github.com/yumishina)
-* [Anton Tyutin](https://github.com/tapoton)
+* [iOS team](iOS team.md)
 
-### Team conventions
-* [Objective-C Code Style](Objective-C style guide.md)
+* [Android team](Android team.md)
+
